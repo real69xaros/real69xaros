@@ -1,0 +1,36 @@
+# Hi there, I'm rantabellos 👋
+
+### 🛠 Systems Developer | Linux Enthusiast | Low-Level Tinkerer
+
+I specialize in bridge-building between hardware and software on Linux. My work ranges from system-level utilities for hardware management to low-level memory injection and optimization.
+
+- 🔭 I’m currently working on **[HP Laptop Manager](https://github.com/rantabellos/HP-Laptop-Manager-Linux)** - A native Linux alternative to OMEN Gaming Hub.
+- ⚡ I’m also building **[LinusWare](https://github.com/rantabellos/sirracha-executor)** - A high-performance Luau executor for Linux.
+- 🌱 I’m currently learning **Advanced Kernel Development** and **SIMD Optimizations**.
+- 💬 Ask me about **Linux system services, DKMS, or C/C++ memory management**.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rantabellos&show_icons=true&theme=tokyonight" alt="rantabellos's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rantabellos&layout=compact&theme=tokyonight" alt="rantabellos's Top Langs" height="150" />
+</p>
+
+---
+
+### 📫 Connect with me
+[Add your LinkedIn, Discord, or Website links here]
