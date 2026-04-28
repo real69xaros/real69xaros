@@ -4,10 +4,8 @@
 
 I specialize in bridge-building between hardware and software on Linux. My work ranges from system-level utilities for hardware management to low-level memory injection and optimization.
 
-- 🔭 I’m currently working on **[HP Laptop Manager](https://github.com/real69xaros/HP-Laptop-Manager-Linux)** - A native Linux alternative to OMEN Gaming Hub.
-- ⚡ I’m also building **[LinusWare](https://github.com/real69xaros/sirracha-executor)** - A high-performance Luau executor for Linux.
-- 🌱 I’m currently learning **Advanced Kernel Development** and **SIMD Optimizations**.
-- 💬 Ask me about **Linux system services, DKMS, or C/C++ memory management**.
+- 🌱 I’m currently learning **Advanced Luau Development** and **Script Optimizations**.
+- 💬 Ask me about **Linux system services, Luau, or Optimizations**.
 
 ---
 
@@ -33,4 +31,4 @@ I specialize in bridge-building between hardware and software on Linux. My work 
 ---
 
 ### 📫 Connect with me
-[Add your LinkedIn, Discord, or Website links here]
+real69xaros On Discord
