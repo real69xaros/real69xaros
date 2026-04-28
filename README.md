@@ -1,6 +1,6 @@
 # Hi there, I'm real69xaros 👋
 
-### 🛠 Systems Developer | Linux Enthusiast | Low-Level Tinkerer
+### 🛠 Systems Developer | Linux Enthusiast | Luau Developer
 
 I specialize in bridge-building between hardware and software on Linux. My work ranges from system-level utilities for hardware management to low-level memory injection and optimization.
 
